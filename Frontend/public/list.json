@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=826"
+  },
+  {
+    "id": 2,
+    "name": "Son of a Bit Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/premium-vector/comic-book-page-divided-by-lines-with-speech-bubbles-rocket-superhero-sounds-effect_212216-670.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/comic-bright-template-with-speech-bubbles-colorful-frames_225004-688.jpg?w=826"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Thriller",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Senorita Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Social Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Horror",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gk Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Suu Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Paid",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "Hey this is an interesting book, read this !!!",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71MDTaL0CNS._AC_UF1000,1000_QL80_.jpg"
+  }
+]
